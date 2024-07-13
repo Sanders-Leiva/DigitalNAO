@@ -39,11 +39,11 @@ Aquí tienes la sección de instalación para el README.md adaptada al proyecto 
 Estructura del Proyecto:
 DigitalNAO/
 ├── ScreenShots/
-│   └──Sprint1.png
+│   └── Sprint1.png
 ├── Sprint 1/
-│   ├──  BuenasPracticas.pdf
-│   ├──  index.html
-│   ├──  script.js
-│   ├──  script.js
-│   ├──  tsconfig.json
+│   ├── BuenasPracticas.pdf
+│   ├── index.html
+│   ├── script.js
+│   └── tsconfig.json
 └── README.md
+
